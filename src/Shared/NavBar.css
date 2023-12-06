@@ -1,0 +1,23 @@
+.NavBar {
+    background-color: #333;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+}
+
+.nav {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-link {
+    color: rgba(138, 88, 239);
+    text-decoration: none;
+    margin: 0 10px; /* Adjust the margin to create space between links */
+}
+
+.nav-link:hover {
+    color: rgb(174, 146, 239);
+}
